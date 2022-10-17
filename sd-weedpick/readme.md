@@ -4,6 +4,8 @@ This script uses qb-target "third eye"
 
 Credits to `Sharkie#6969` for essentailly writing the code <3
 
+Version = 1.1
+
 Dependencys
 
 qb-core
